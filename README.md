@@ -1,6 +1,6 @@
 # Random_Quiz_system
 
-If You Want to use this Bank Management Project using C++ <br>
+If You Want to use this Random Quiz System Project using C++ <br>
 
 You need to install any C++ Compiler like:<br>
 Dev C++ -> https://sourceforge.net/projects/orwelldevcpp/  <br>
